@@ -9,6 +9,22 @@ To be notified when new versions of Corona are released, sign up for the
 mailing list</a>.
 </p>
 
+<h3>1.0.2</h3>
+
+<ul>
+<?php
+downloadDesc('corona-1.0.2-vc6.zip',     'VC6 Binary Release',
+             'Standard Win32 development binaries.');
+downloadDesc('corona-1.0.2-vc7.zip',     'VC7 Binary Release',
+             'Win32 binaries compiled with .NET support.');
+downloadDesc('corona-1.0.2.tar.gz',      'UNIX Source Release',
+             './configure && make && make install');
+downloadDesc('corona-1.0.2-src.tar.bz2', 'CVS Tree Snapshot',
+             'Raw source tree; if you want to compile in Windows ' .
+             'yourself, this is what you want.');
+?>
+</ul>
+
 <h3>1.0.1</h3>
 
 <ul>

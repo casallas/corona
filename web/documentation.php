@@ -15,12 +15,11 @@ from looking at it.
 </p>
 
 <ul>
-<li><a href="corona-1.0.1-doxygen/">API Reference (Web)</a></li>
+<li><a href="corona-1.0.2-doxygen/">API Reference (Web)</a></li>
 <?php
-download('corona-1.0.1-doxygen.zip', 'API Reference (.zip format)');
-download('corona-1.0.1-doxygen.tgz', 'API Reference (.tar.gz format)');
-download('corona-1.0.1-doxygen.tbz', 'API Reference (.tar.bz2 format)');
-download('corona-1.0.1-doxygen.chm', 'API Reference (HTMLHelp format)');
+download('corona-1.0.2-doxygen.zip', 'API Reference (.zip format)');
+download('corona-1.0.2-doxygen.tbz', 'API Reference (.tar.bz2 format)');
+download('corona-1.0.2-doxygen.chm', 'API Reference (HTMLHelp format)');
 ?>
 </ul>
 

@@ -29,6 +29,19 @@ no known endian issues, so it should work everywhere with few or no changes.
 
 <h2>News</h2>
 
+<h3>2003.09.02 - Corona 1.0.2 Released</h3>
+
+<ul>
+<li>Added a corconvert program to convert one image file to another.</li>
+<li>Changed FileFormatDesc from a struct to an interface, removing a
+    bunch of string parsing code from corona.h.</li>
+<li>Fixed file read callbacks for JPEG loader.  This fixes a bug where
+    some progressive JPEGs could not be opened.</li>
+<li>fixed memory leaks in SavePNG (Hosam Abdulrrazek)</li>
+<li>you can now specify an initial pixel buffer as the fourth argument
+    to CreateImage (Hosam Abdulrrazek)</li>
+</ul>
+
 <h3>2003.05.11 - Corona 1.0.1 Released</h3>
 
 <ul>
