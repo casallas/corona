@@ -8,7 +8,7 @@ include 'page_header.inc';
 <p>
 Corona is an image input/output library that can read, write, and
 manipulate image files in just a few lines of code.  It can write PNG
-files, and read PNG, JPEG, PCX, BMP, and GIF.  Corona was designed to be
+files, and read PNG, JPEG, PCX, BMP, TGA, and GIF.  Corona was designed to be
 easy to use, and exports a straightforward C++ API.  With just a few lines
 of C++, you can add image loading to your application.
 </p>
