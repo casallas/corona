@@ -29,6 +29,19 @@ issues, so it should work everywhere with few or no changes.
 
 <h2>News</h2>
 
+<h3>2003.05.11 - Corona 1.0.1 Released</h3>
+
+<ul>
+<li>added IsDirect(), IsPalettized(), and GetPaletteSize() functions</li>
+<li>added FlipImage() function (Razvan Surdulescu)</li>
+<li>made FlipImage() operate in-place on the image object</li>
+<li>added writing support to the MemoryFile implementation</li>
+<li>made OpenFile (local filesystem access) a public function</li>
+<li>made autotools build actually install the corona-config script</li>
+<li>added support for saving TGA images</li>
+</ul>
+
+
 <h3>2003.01.05 - Corona 1.0.0 Released</h3>
 
 <p>

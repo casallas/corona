@@ -7,6 +7,11 @@ function download($file, $desc) {
        '?download">' . $desc . '</a></li>';
 }
 
+function downloadDesc($file, $desc, $extra) {
+  echo '<li><a href="http://prdownloads.sourceforge.net/corona/' . $file .
+       '?download">' . $desc . '</a> - <i>' . $extra . '</i></li>';
+}
+
 ?>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
