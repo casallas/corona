@@ -29,11 +29,26 @@ so it should work everywhere with few or no changes.
 
 <h2>News</h2>
 
-<h3>2002.06.XX - Corona 0.2.0 Release</h3>
+<h3>2002.06.05 - Corona 0.2.0 Released</h3>
 
 <p>
-Corona 0.2.0 is out.  And stuff.  @todo@
+Corona 0.2.0 is out.  A new web page came with it.  :)  Here is what changed
+since 0.1.0.
 </p>
+
+<ul>
+<li>added GLUT example</li>
+<li>added support for the entire BMP spec</li>
+<li>added comprehensive test suite</li>
+<li>four build systems: VC++ 6, VC++ 7, SCons, autoconf/automake</li>
+<li>builds on IRIX</li>
+<li>doxygen documentation</li>
+<li>added image creation and cloning functionality</li>
+<li>fixed possible crash in PNG exporter</li>
+<li>added support for reading TGA and GIF images</li>
+<li>fixed several PCX loading bugs</li>
+<li>added support for palettized images</li>
+</ul>
 
 <?php
 include 'page_footer.inc';
