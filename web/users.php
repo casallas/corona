@@ -13,6 +13,7 @@ Projects that use Corona are listed here.
 <li><a href="http://www.avisynth.org/~warpenterprises/">Plug-in for AviSynth</a></li>
 <li><a href="http://aegisknight.org/sphere">Sphere</a></li>
 <li><a href="http://www.verge-rpg.com/">VERGE 3</a></li>
+<li><a href="http://virtualdubmod.sourceforge.net/">VirtualDubMod</a></li>
 </ul>
 
 <p>
