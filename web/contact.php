@@ -9,7 +9,7 @@ contact information at <a href="http://aegisknight.org/">my home page.</a>
 </p>
 
 <p>
-Please take a look at the <a href="lists">mailing lists</a> page for
+Please take a look at the <a href="lists.php">mailing lists</a> page for
 information on how to contact the developers.
 </p>
 
