@@ -23,8 +23,8 @@ long as you don't claim it as your own.
 <p>
 Corona is highly portable and works on Windows, Linux, and IRIX.  It
 has been tested with the following compilers:  Visual C++ 6, Visual C++ 7,
-gcc 2.95.3, gcc 2.96, gcc 3.0.1, and gcc 3.2.  The code has no known endian
-issues, so it should work everywhere with few or no changes.
+gcc 2.95.3, gcc 2.96, gcc 3.0.1, gcc 3.2, and SGI MIPSPro.  The code has
+no known endian issues, so it should work everywhere with few or no changes.
 </p>
 
 <h2>News</h2>
