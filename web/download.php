@@ -3,15 +3,18 @@ $current_page = 'download';
 include 'page_header.inc';
 ?>
 
+<h3>1.0.0</h3>
+
 <ul>
-
 <?php
-download('corona-0.2.0-win32.zip',   'Win32 Binary Release');
-download('corona-0.2.0.tar.gz',      'UNIX Source Release');
-download('corona-0.2.0-src.tar.bz2', 'Source Snapshot');
+download('corona-1.0.0-win32.zip', 'Win32 Binary Release');
+download('corona-1.0.0.tar.gz',    'UNIX Source Release (.tar.gz)');
+download('corona-1.0.0.tar.bz2',   'UNIX Source Release (.tar.bz2)');
+download('corona-1.0.0-src.tbz',   'CVS Tree Snapshot');
 ?>
-
 </ul>
+
+<h3>Older Files</h3>
 
 <p>
 All files are available at the <a

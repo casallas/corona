@@ -16,9 +16,12 @@ from looking at it.
 
 <ul>
 <li><a href="doxygen/">API Reference (Web)</a></li>
-<?php download('corona-doxygen.zip',    'API Reference (.zip format)'); ?>
-<?php download('corona-doxygen.tar.gz', 'API Reference (.tar.gz format)'); ?>
-<?php download('corona.chm',            'API Reference (HTMLHelp format)'); ?>
+<?php
+download('corona-1.0.0-doxygen.zip', 'API Reference (.zip format)');
+download('corona-1.0.0-doxygen.tgz', 'API Reference (.tar.gz format)');
+download('corona-1.0.0-doxygen.tbz', 'API Reference (.tar.bz2 format)');
+download('corona-1.0.0-doxygen.chm', 'API Reference (HTMLHelp format)');
+?>
 </ul>
 
 <p>
