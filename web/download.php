@@ -19,7 +19,7 @@ downloadDesc('corona-1.0.2-vc7.zip',     'VC7 Binary Release',
              'Win32 binaries compiled with .NET support.');
 downloadDesc('corona-1.0.2.tar.gz',      'UNIX Source Release',
              './configure && make && make install');
-downloadDesc('corona-1.0.2-src.tar.bz2', 'CVS Tree Snapshot',
+downloadDesc('corona-1.0.2-src.tar.bz2', 'Source Code Snapshot',
              'Raw source tree; if you want to compile in Windows ' .
              'yourself, this is what you want.');
 ?>
@@ -35,7 +35,7 @@ downloadDesc('corona-1.0.1-vc7.zip',     'VC7 Binary Release',
              'Win32 binaries compiled with .NET support.');
 downloadDesc('corona-1.0.1.tar.gz',      'UNIX Source Release',
              './configure && make && make install');
-downloadDesc('corona-1.0.1-src.tar.bz2', 'CVS Tree Snapshot',
+downloadDesc('corona-1.0.1-src.tar.bz2', 'Source Code Snapshot',
              'Raw source tree; if you want to compile in Windows ' .
              'yourself, this is what you want.');
 ?>
@@ -48,7 +48,7 @@ downloadDesc('corona-1.0.1-src.tar.bz2', 'CVS Tree Snapshot',
 download('corona-1.0.0-win32.zip', 'Win32 Binary Release');
 download('corona-1.0.0.tar.gz',    'UNIX Source Release (.tar.gz)');
 download('corona-1.0.0.tar.bz2',   'UNIX Source Release (.tar.bz2)');
-download('corona-1.0.0-src.tbz',   'CVS Tree Snapshot');
+download('corona-1.0.0-src.tbz',   'Source Code Snapshot');
 ?>
 </ul>
 
