@@ -3,6 +3,12 @@ $current_page = 'download';
 include 'page_header.inc';
 ?>
 
+<p>
+To be notified when new versions of Corona are released, sign up for the
+<a href="http://lists.sourceforge.net/lists/listinfo/corona-annc">announcements
+mailing list</a>.
+</p>
+
 <h3>1.0.0</h3>
 
 <ul>
