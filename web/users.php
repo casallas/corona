@@ -10,6 +10,7 @@ Projects that use Corona are listed here.
 <ul>
 <li><a href="http://isugamedev.sf.net/">ISU Game Developers Club</a></li>
 <li><a href="http://aegisknight.org/pictureshow">PictureShow</a></li>
+<li><a href="http://www.avisynth.org/~warpenterprises/">Plug-in for AviSynth</a></li>
 <li><a href="http://aegisknight.org/sphere">Sphere</a></li>
 <li><a href="http://www.verge-rpg.com/">VERGE 3</a></li>
 </ul>
