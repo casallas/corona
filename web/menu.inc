@@ -28,15 +28,19 @@ entry('links',         'Links to External Sites');
 entry('contact',       'How to Reach the Developers');
 ?>
 
+<br />
+
 <div class="images">
   <a href="http://validator.w3.org/check/referer">
     <img src="http://www.w3.org/Icons/valid-xhtml10"
          alt="Valid XHTML 1.0!" />
   </a>
+  <br />
   <a href="http://jigsaw.w3.org/css-validator/">
     <img src="http://jigsaw.w3.org/css-validator/images/vcss"
          alt="Valid CSS!" />
   </a>
+  <br />
   <a href="http://sourceforge.net/">
     <img src="http://sourceforge.net/sflogo.php?group_id=44336&amp;type=1"
          alt="SourceForge Logo" />
