@@ -17,6 +17,10 @@ function entry($name, $title) {
 
 <div class="menu">
 
+<div class="title">Corona</div>
+
+<br />
+
 <?php
 entry('home',          'Overview and News');
 entry('download',      'Download the Software');
