@@ -22,7 +22,7 @@ from looking at it.
 </ul>
 
 <p>
-More documentation is included in the <a href="download">downloads</a>.
+More documentation is included in the <a href="download.php">downloads</a>.
 </p>
 
 <?php

@@ -8,7 +8,7 @@ function entry($name, $title) {
     $begin = '<b>';
     $end   = '</b>';
   } else {
-    $begin = '<a href="' . $name . '">';
+    $begin = '<a href="' . $name . '.php">';
     $end   = '</a>';
   }
   echo "<div class=\"menuitem\" title=\"$title\">$begin$name$end</div>";
