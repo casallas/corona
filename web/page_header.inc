@@ -1,5 +1,12 @@
 <?php
-include 'doctype.inc'
+include 'doctype.inc';
+
+# generate a link to a sourceforge file
+function download($file, $desc) {
+  echo '<li><a href="http://prdownloads.sourceforge.net/corona/' . $file .
+       '?download">' . $desc . '</a></li>';
+}
+
 ?>
 
 <html xmlns="http://www.w3.org/1999/xhtml">

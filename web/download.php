@@ -4,9 +4,13 @@ include 'page_header.inc';
 ?>
 
 <ul>
-<li>Wins32 Binary Release</li>
-<li>UNIX Source Release</li>
-<li>Source Snapshot</li>
+
+<?php
+download('corona-0.2.0-win32.zip',   'Win32 Binary Release');
+download('corona-0.2.0.tar.gz',      'UNIX Source Release');
+download('corona-0.2.0-src.tar.bz2', 'Source Snapshot');
+?>
+
 </ul>
 
 <p>
